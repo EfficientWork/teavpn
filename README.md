@@ -4,11 +4,11 @@ We are a new independent VPN developer small global team, inviting you to try ou
 
 # Google Play
 
-https://play.google.com/store/apps/details?id=com.pi5g.teavpn
+<https://play.google.com/store/apps/details?id=com.pi5g.teavpn>
 
 # Apple Store
 
-https://apps.apple.com/us/app/tea- vpn/id1641275407
+<https://apps.apple.com/us/app/tea-vpn/id1641275407>
 
 
 # About Tea VPN:
