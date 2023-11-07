@@ -5,10 +5,16 @@ We are a new independent VPN developer small global team, inviting you to try ou
 # Google Play
 
 <https://play.google.com/store/apps/details?id=com.pi5g.teavpn>
+![](screenshots/android.screenshot.com.pi5g.teavpn.webp)
 
 # Apple Store
 
 <https://apps.apple.com/us/app/tea-vpn/id1641275407>
+![](screenshots/ios.screenshot.com.pi5g.teavpn.ios.png)
+
+# Youtube Video
+<https://www.youtube.com/watch?v=Aq3mbIXjIXo&list=PLs-VN2j610xGw7cec02TlaMfuAGRO-VnO>
+![](screenrecords/com.pi5g.teavpn.mp4)
 
 
 # About Tea VPN:
