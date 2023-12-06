@@ -1,15 +1,23 @@
-# Tea VPN - A Flutter VPN App
+# Tea VPN - A Flutter Cross-platform VPN App
 
-We are a new independent VPN developer small global team, inviting you to try our work:
+Free VPN For A Few Traffic And Best Service For VIP Users In Very Cheap Price!
 
-# Google Play
+#### windows client 
+https://vpnjet-b54bc.web.app/download/teavpn-linux-0.9.0.231206.tar.gz
+
+#### linux client (depend on NetworkManager Strongswan plugins version 1.5.0+. such as ubuntu 22.04+ / debain 12+)  
+https://vpnjet-b54bc.web.app/download/teavpn-windows-0.9.0.231205.msix
+
+# Google Play for Android 7+
 
 <https://play.google.com/store/apps/details?id=com.pi5g.teavpn>
+
 ![](screenshots/android.screenshot.com.pi5g.teavpn.webp)
 
-# Apple Store
+# Apple Store for iOS 9+ macOS 10.15+
 
 <https://apps.apple.com/us/app/tea-vpn/id1641275407>
+
 ![](screenshots/ios.screenshot.com.pi5g.teavpn.ios.png)
 
 # Youtube Video
