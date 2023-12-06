@@ -3,10 +3,10 @@
 Free VPN For A Few Traffic And Best Service For VIP Users In Very Cheap Price!
 
 #### windows client 
-https://vpnjet-b54bc.web.app/download/teavpn-linux-0.9.0.231206.tar.gz
+https://vpnjet-b54bc.web.app/download/teavpn-windows-0.9.0.231205.zip  : size ~ 30MB
 
 #### linux client (depend on NetworkManager Strongswan plugins version 1.5.0+. such as ubuntu 22.04+ / debain 12+)  
-https://vpnjet-b54bc.web.app/download/teavpn-windows-0.9.0.231205.msix
+https://vpnjet-b54bc.web.app/download/teavpn-linux-0.9.0.231206.tar.gz  : size ~ 30MB
 
 # Google Play for Android 7+
 
